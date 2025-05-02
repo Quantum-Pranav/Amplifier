@@ -46,8 +46,7 @@ The goal of this project was to explore a complete **industry-standard PCB desig
 - `/Schematic/` – Altium schematic files  
 - `/PCB/` – PCB layout files (.PcbDoc, .PrjPcb)  
 - `/Gerbers/` – Gerber and NC drill files for fabrication  
-- `/Images/` – Photos of fabricated PCBs and design screenshots  
-- `/Simulation/` – LTspice simulation files
+
 
 ---
 
